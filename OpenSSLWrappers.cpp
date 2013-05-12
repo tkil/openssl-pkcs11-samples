@@ -1,10 +1,3 @@
-// This file is the confidential and proprietary property of Pelowitz
-// LLC and Foiani LLC, implemented under contract to Brookhaven
-// National Laboratory.
-//
-// Copyright 2009-2013 Foiani LLC.  All rights reserved.
-// Copyright 2009-2013 Pelowitz LLC.  All rights reserved.
-
 /**
  * @file OpenSSLWrappers.cpp
  *

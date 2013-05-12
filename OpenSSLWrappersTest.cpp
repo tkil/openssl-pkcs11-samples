@@ -1,14 +1,11 @@
-// This file is the confidential and proprietary property of Pelowitz
-// LLC and Foiani LLC, implemented under contract to Brookhaven
-// National Laboratory.
-//
-// Copyright 2009-2013 Foiani LLC.  All rights reserved.
-// Copyright 2009-2013 Pelowitz LLC.  All rights reserved.
-
 /**
  * @file OpenSSLWrappersTest.cpp
  *
  * @author Anthony Foiani <anthony@foiani.com>
+ *
+ * @copyright 2013
+ *
+ * @license Boost Public License v1.0
  */
 
 #include <boost/test/minimal.hpp>
